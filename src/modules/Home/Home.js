@@ -6,7 +6,7 @@ const Home = () => {
     return <HomeContainerStyled>
         <div className="child-container">
             <div className="img-parent">
-                <img src={'/picture.jpg'} />
+                <img src={'picture.jpg'} />
             </div>
             
             <h1>Hi, I'm <span>&lt;/</span>Ubaid<span>/&gt;</span></h1>
