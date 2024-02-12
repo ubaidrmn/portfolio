@@ -16,7 +16,7 @@ const Home = () => {
             Currently doing bachelor's in Computer Science from UIT University. I'm Passionate about coding and I like to read 📚</p>
 
             <h2>Top Skills</h2>
-            <p>Python • Django + DRF • JavasScript • React.js • Docker • Git • Postgres • Bash Scripting • SQL</p>
+            <p>Python • Django + DRF • JavasScript • React.js • Docker • Git • Postgres • Bash Scripting • SQL • Selenium  • Scrapy • Postman</p>
             
             <div className="button-parent">
                 <button>Say hello</button>
